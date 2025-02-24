@@ -115,7 +115,7 @@ It is related to entity set student via relation update.
 As the name specifies “HOSTEL MANAGEMENT SYSTEM” is a database developed for managing various activities in the hostel. The stakeholders for this database are :-
 <ol><li>Warden of hostels:To keep the record of personal details of each employee and students of the hostel.</li>
 <li>Supervisiors of hostels : Same as Warden’s role.   </li>      
-<li>Security Officer : To keep the record of the visitors visiting the hostel, arrival and departure time of a student from the hostel.</li>
+<li>Security Officer: To keep the record of the visitors visiting the hostel, arrival and departure time of a student from the hostel.</li>
 </ol>All these people are also the administrator of the database.
 <ol>The Administrator can :
 <li>  Allot different students to the different hostels.</li>
